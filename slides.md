@@ -85,5 +85,29 @@ src: ./pages/19_Overloading Constructor.md
 src: ./pages/20_Overloading Method.md
 ---
 ---
+src: ./pages/21_Cover Assignment.md
+---
+---
+src: ./pages/22_Assignment1.md
+---
+---
+src: ./pages/23_Assignment2.md
+---
+---
+src: ./pages/24_Assignment3.md
+---
+---
+src: ./pages/25_Assignment4.md
+---
+---
+src: ./pages/26_Teknis Pengumpulan 1.md
+---
+---
+src: ./pages/27_Teknis Pengumpulan 2.md
+---
+---
+src: ./pages/28_Deadline.md
+---
+---
 src: ./pages/29_Terima Kasih.md 
 ---
