@@ -2,12 +2,11 @@
 theme: default
 highlighter: shiki
 #> Slide info
-# ganti N jadi nomor pertemuan
-title: Materi N - PBO
+title: Materi 02 - PBO
 titleTemplate: '%s'
 info: |
-  # Materi N - PBO
-  [JUDUL MATERI]
+  # Materi 02 - PBO
+  Java Package dan Enkapsulasi
 
   > Asisten Praktikum Pemrograman Berbasis Objek 2022  
   > Teknik Informatika Universitas Padjadjaran
@@ -17,14 +16,74 @@ lineNumbers: false
 drawings:
   persist: false
 download: true
-exportFilename: 'materi-pbo-N' # ganti N jadi nomor pertemuan
+exportFilename: 'materi-pbo-02'
 css: unocss
+fonts:
+  sans: 'Overpass'
+  mono: 'Overpass Mono'
 ---
 
 # Praktikum<br>Pemrograman<br>Berbasis Objek
 
-**Pertemuan N**
+**Pertemuan 2**
 
 ---
-src: ./pages/02_Terima Kasih.md 
+src: ./pages/02_Review.md
+---
+---
+src: ./pages/03_Cover Materi Pertemuan.md
+---
+---
+src: ./pages/04_Materi Pertemuan 02.md
+---
+---
+src: ./pages/05_Cover Program Modular.md
+---
+---
+src: ./pages/06_Modularitas Java.md
+---
+---
+src: ./pages/07_Package.md
+---
+---
+src: ./pages/08_Package part2.md
+---
+---
+src: ./pages/09_Package part3.md
+---
+---
+src: ./pages/10_Cover Array of Object.md
+---
+---
+src: ./pages/11_Membuat Array of Object.md
+---
+---
+src: ./pages/12_Cover Enkapsulasi.md
+---
+---
+src: ./pages/13_Access Modifier.md
+---
+---
+src: ./pages/14_Enkapsulasi.md
+---
+---
+src: ./pages/15_Enkapsulasi part2.md
+---
+---
+src: ./pages/16_Enkapsulasi part3.md
+---
+---
+src: ./pages/17_Manfaat Enkapsulasi.md
+---
+---
+src: ./pages/18_Cover Overloading.md
+---
+---
+src: ./pages/19_Overloading Constructor.md
+---
+---
+src: ./pages/20_Overloading Method.md
+---
+---
+src: ./pages/29_Terima Kasih.md 
 ---
