@@ -18,4 +18,4 @@ public class Test {
 }
 ```
 
-<img v-click src='/img/tes array objek.png' class='max-w-50 mt-4 rounded-md'>
+<img v-click src='/img/tes-array-objek.png' class='max-w-50 mt-4 rounded-md'>
