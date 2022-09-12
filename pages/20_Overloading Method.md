@@ -1,5 +1,5 @@
 ---
-clicks: 1
+clicks: 2
 ---
 
 # Overloading (method)
@@ -9,7 +9,7 @@ Overloading method sama halnya dengan overloading constructor karena constructor
 
 <div class='grid grid-cols-2 mt-4'>
 
-```java {2-5|6-8}
+```java {all|2-5|6-8}
 
 public void setUmur(int umur) {
 this.umur = umur;
@@ -22,12 +22,12 @@ this.umur = Integer.parseInt(umur);
 ```
 
 <div class='ml-4'>
-<div v-click-hide="1" class='text-sm mt-12'>
+<div v-click-hide="2" v-click='1' class='text-sm mt-12'>
 
 <carbon-arrow-left class='inline'/> Method setter dengan parameter <kbd>int</kbd>
 
 </div>
-<div v-click="1" class='text-sm mt-12'>
+<div v-click="2" class='text-sm mt-12'>
 
 <carbon-arrow-left class='inline'/> Method setter dengan parameter <kbd>String</kbd>
 

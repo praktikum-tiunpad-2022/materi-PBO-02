@@ -28,7 +28,7 @@ Contoh File1.java
 
 </div>
 
-<div v-click="1">
+<div>
 
 ```java
 package child2;

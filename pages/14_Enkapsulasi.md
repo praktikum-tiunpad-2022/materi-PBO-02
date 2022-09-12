@@ -8,5 +8,5 @@ Enkapsulasi ini dapat disebut juga sebagai **data hiding**. Salah satu keuntunga
 
 Syarat enkapsulasi meliputi :
 
-1. Mendeklarasi variabel sebagai private.
-2. Membuat method public setter dan getter untuk memodifikasi dan mengakses variabel tadi.
+1. Mendeklarasi variabel sebagai `private`.
+2. Membuat method `public` `setter` dan `getter` untuk memodifikasi dan mengakses variabel tadi.
