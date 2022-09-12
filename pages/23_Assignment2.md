@@ -5,28 +5,27 @@ layout: center
 # Assignment 2 Soal 2 <kbd>soal2/<span class='text-teal'>Test.java</span></kbd>
 
 <br>
-Buatlah program sederhana yang dapat menerima input berupa string sebanyak n kali lalu gabungkan setiap input string menjadi satu string.
+
+Menggunakan class Manusia dari praktikum sebelumnya, buatlah array objek Manusia berukuran **5** dengan properti-properti yang diberikan oleh user input. Kemudian output-kan nama dan umur setiap objek tersebut ke console.
 
 <div class='mt-6 grid grid-cols-[0.2fr_1.5fr] items-center text-sm'>
 <span class='text-xs text-white font-extrabold uppercase text-yellow'>Input</span>
 <div class='flex flex-col mb-2'>
-<span><span class='italic'>T</span> : int (user menentukan banyaknya inputan string)</span>
-<span>string sebanyak <span class='italic mr-1'>T</span> kali</span>
+Untuk setiap manusia, ada input sebagai berikut secara konsekutif
+
+<ul>
+<li><span><span class='italic'>nama</span> : string</span></li>
+<li><span><span class='italic'>umur</span> : int</span></li>
+</ul>
+
 </div>
 <span class='text-xs text-white font-extrabold uppercase text-yellow'>Output</span>
-<span>gabungan string inputs</span>
-<span class='text-xs text-white font-extrabold uppercase text-yellow'>Contoh</span>
-<div class='mt-4 flex flex-col mb-2'>
-
-```bash
-n = 2
-input-1     = hi
-input-2     = mom
-
-output :
-hi mom
-
-```
-
+<div class='flex flex-col mb-2'>
+<span>Untuk setiap manusia, ada output sebagai berikut secara konsekutif</span>
+<ul>
+<li><span><span class='italic'>“Orang ke i”</span>, dimana i adalah index</span></li>
+<li><span><span class='italic'>“Nama: nama“</span>, dimana nama adalah nama Manusia ke i</span></li>
+<li><span><span class='italic'>“Umur: umur“</span>, dimana umur adalah umur Manusia ke i</span></li>
+</ul>
 </div>
 </div>
