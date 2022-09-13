@@ -4,7 +4,7 @@ layout: center
 
 # Modularitas Java
 
-<div class='text-sm mt-4'>
+<div class='text-base text-justify mt-4'>
 
 Dalam bahasa pemrograman berorientasi objek apapun termasuk Java dan C#, konsep modularitas menjadi sebuah standar untuk membuat setiap modul bersifat individual. Hal ini mengizinkan komunikasi antar modul yang lebih mudah.
 

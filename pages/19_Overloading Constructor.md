@@ -1,5 +1,5 @@
 ---
-clicks: 2
+clicks: 3
 ---
 
 # Overloading (constructor)
@@ -8,7 +8,7 @@ Overloading sebuah constructor berarti membuat banyak <br>konstruktor yang memil
 
 <div class='grid grid-cols-2 mt-4'>
 
-```java {5-8|10-13|15-18}
+```java {all|5-8|10-13|15-18}
 public Manusia {
     private String nama;
     private int umur;
@@ -31,18 +31,18 @@ public Manusia {
 ```
 
 <div class='ml-4'>
-<div v-click-hide="1" class='text-sm mt-28'>
+<div v-click-hide="2" v-click="1" class='text-sm mt-28'>
 
 <carbon-arrow-left class='inline'/> Constructor default (tanpa parameter)
 
 </div>
-<div v-click-hide="2" v-click="1" class='text-sm mt-16'>
+<div v-click-hide="3" v-click="2" class='text-sm mt-16'>
 
 <carbon-arrow-left class='inline'/> Constructor dengan paramater <kbd>String</kbd>,<kbd>int</kbd>
 
 </div>
 
-<div v-click="2" class='text-sm mt-16'>
+<div v-click="3" class='text-sm mt-16'>
 
 <carbon-arrow-left class='inline'/> Constructor dengan paramater <kbd>int</kbd>,<kbd>String</kbd>
 
